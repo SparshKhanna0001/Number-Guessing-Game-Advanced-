@@ -1,0 +1,7 @@
+The rules of this game is quite simple!
+
+1) You have to make a guess about a number between 0 and 100.
+2) You will be given 5 turns.
+3) Clues will be provided alongside as you proceed (or fail to gues the number).
+
+ENJOY!!!
