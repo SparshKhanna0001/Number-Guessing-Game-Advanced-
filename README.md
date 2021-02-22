@@ -1,12 +1,12 @@
 # Not Your Ordinary Number Guessing Game
 
-### *Sections:-
-        *Introduction
-        *What the game is?
-        *Algorithm 
-            *Function
-            *Working
-        *Future Developments
+*Sections:-
+    *Introduction
+    *What the game is?
+    *Algorithm 
+        *Function
+        *Working
+    *Future Developments
 
 ## Introduction
 One of the basic coding problems that is used to train beginers is a basic number guessing game.
