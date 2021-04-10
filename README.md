@@ -1,19 +1,5 @@
 # Not Your Ordinary Number Guessing Game
 
---* Sections:-
-    * Introduction
-    * What the game is?
-    * Algorithm 
-        * Function
-        * Working
-    * Future Developments
-
-## Introduction
-One of the basic coding problems that is used to train beginers is a basic number guessing game.
-This type of software is simple in funtionality and easy to program but, it is not that much interesting to play this game as it being less dynamic and boring in nature. The probability of the user winning is 5% if the number to be guessed is between 1 and 100 and the user is provided with 5 turns.
-
-I have tried to make it interesting and worked hard on increasing the probability of user winning, with the help of an algorithm programed by me.--
-
 * Sections:-
    * Long Story Short
    * Algorithm
@@ -29,7 +15,7 @@ __Intermeditiate Number Guessing Game__ : Everything is same except one improvem
 The type of number guessing games described above are __good for coding practices__ but actually are __boring in nature.__
 I have tried to make it interesting to play.
 
-###My Number Guessing Game :
+### My Number Guessing Game :
 Suppose gave a wrong guess the following describes how the computer/machine you're using responds:- 
 >>>This time you were not able to make it up.
 >>>As a hint, the number lies between 32 and 47. 
