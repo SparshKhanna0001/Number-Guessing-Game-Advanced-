@@ -2,7 +2,7 @@
 
 <p align="center">
   README IN DEVELOPMENT
-  Except the __algorithm part everything has been completed__.
+  Except the algorithm part everything has been completed.
 </p>
 
 * Sections:-
