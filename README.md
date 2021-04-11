@@ -1,5 +1,10 @@
 # Not Your Ordinary Number Guessing Game
 
+<p align="center">
+  README IN DEVELOPMENT
+  Except the __algorithm part everything has been completed__.
+</p>
+
 * Sections:-
    * Long Story Short
    * Algorithm
@@ -20,11 +25,21 @@ Suppose gave a wrong guess the following describes how the computer/machine you'
 >>>This time you were not able to make it up.
 >>>As a hint, the number lies between 32 and 47. 
 >>>Please try again !!!
+
+Here's an image :- 
+![Image-og-gameplay](https://github.com/SparshKhanna0001/Number-Guessing-Game-Advanced-/blob/main/IMG_20210411_173039.jpg)
                               
-Everytime you lose the program will give you lose the program will give _the range in which correct option lies_.
+Everytime you lose the program will give _the range in which correct option lies_.
 __But, does the program give you same range__
 _No, it will don't_.  
-* First Time you lose : range between 
+* First Time you lose : range of 15 numbers
+* Second Time you lose : range of 10 numbers
+* Third Time you lose : range of 5 numbers 
+* Fourth Time you lose : range of 3 numbers
 
-                              
-                              
+
+## Future Developments
+
+* May add __Graphical User Interface.__ 
+* May add a __database to store users scores__ and to implement a __functionality that saves highscores.__
+* Since, it a simple game so may be in future i may __integrate this game with other games of this type to a single platform__.
